@@ -9,6 +9,12 @@ Freelance Web Developer & 3rd-year college student. Passionate about crafting be
 - 💬 Ask me about **JavaScript, React, Node.js, or UI/UX design**.
 - 📫 How to reach me: **dharani2006lakshmi@gmail.com**
 
+<br/>
+<a href="https://www.linkedin.com/in/dharanidharan-a-115659321" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+</a>
+<br/><br/>
+
 ## 🛠️ Tech Stack
 
 <div align="center">
