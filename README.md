@@ -25,9 +25,6 @@ I am a passionate Full-Stack Developer and Tech Enthusiast constantly building a
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
-## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dharani2006lakshmi-sys&show_icons=true&theme=radical" alt="Dharani's GitHub Stats" />
-</div>
+
 
