@@ -1,10 +1,8 @@
-﻿# Hi there, I'm Dharani! 👋
-
-
+# Hi there, I'm Dharani! 👋
 
 ## 🚀 About Me
 
-I am a passionate Full-Stack Developer and Tech Enthusiast constantly building and learning. I specialize in modern web technologies, creating responsive applications, and solving complex problems with elegant code.
+Freelance Web Developer & 3rd-year college student. Passionate about crafting beautiful, high-performance websites and turning client ideas into reality.
 
 - 💻 I'm currently working on exciting web applications like **MiniMail**, **CoachHub**, and **PentestGPT**.
 - 🌱 I’m currently learning advanced cloud architecture and AI integrations.
@@ -24,7 +22,3 @@ I am a passionate Full-Stack Developer and Tech Enthusiast constantly building a
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
-
-
-
-
