@@ -12,8 +12,9 @@ Freelance Web Developer & 3rd-year college student. Passionate about crafting be
 <br/>
 <a href="https://www.linkedin.com/in/dharanidharan-a-115659321" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
-</a>
-<br/><br/>
+</a>\n<a href="https://www.instagram.com/dharanidharan_2006" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Connect on Instagram" />
+</a>\n<br/><br/>
 
 ## 🛠️ Tech Stack
 
