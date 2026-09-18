@@ -1,13 +1,13 @@
-﻿# Hi there, I'm Dharani! ðŸ‘‹
+# Hi there, I'm Dharani! 👋
 
-## ðŸš€ About Me
+## 🚀 About Me
 
 Freelance Web Developer & 3rd-year college student. Passionate about crafting beautiful, high-performance websites and turning client ideas into reality.
 
-- ðŸ’» I'm currently working on exciting web applications like **MiniMail**, **CoachHub**, and **PentestGPT**.
-- ðŸŒ± Iâ€™m currently learning advanced cloud architecture and AI integrations.
-- ðŸ’¬ Ask me about **JavaScript, React, Node.js, or UI/UX design**.
-- ðŸ“« How to reach me: **dharani2006lakshmi@gmail.com**
+- 💻 I'm currently working on exciting web applications like **MiniMail**, **CoachHub**, and **PentestGPT**.
+- 🌱 I’m currently learning advanced cloud architecture and AI integrations.
+- 💬 Ask me about **JavaScript, React, Node.js, or UI/UX design**.
+- 📫 How to reach me: **dharani2006lakshmi@gmail.com**
 
 <br/>
 <a href="https://www.linkedin.com/in/dharanidharan-a-115659321" target="_blank">
@@ -18,7 +18,7 @@ Freelance Web Developer & 3rd-year college student. Passionate about crafting be
 </a>
 <br/><br/>
 
-## ðŸ› ï¸ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -31,4 +31,3 @@ Freelance Web Developer & 3rd-year college student. Passionate about crafting be
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
-
