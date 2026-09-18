@@ -1,8 +1,6 @@
 ﻿# Hi there, I'm Dharani! 👋
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dharani2006lakshmi-sys&style=flat-square&color=blue" alt="Profile Views" />
-</div>
+
 
 ## 🚀 About Me
 
@@ -32,3 +30,4 @@ I am a passionate Full-Stack Developer and Tech Enthusiast constantly building a
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dharani2006lakshmi-sys&show_icons=true&theme=radical" alt="Dharani's GitHub Stats" />
 </div>
+
