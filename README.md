@@ -1,8 +1,8 @@
 <div align="center">
 
-  <!-- Self-Hosted Animated Cyberpunk Header Banner -->
+  <!-- Self-Hosted Animated Cyberpunk Header Banner (Full Raw URL for GitHub Profile) -->
   <a href="https://dharanidharan-dev.vercel.app" target="_blank">
-    <img src="./header.svg" width="100%" alt="Dharanidharan A - Freelance Web Developer" />
+    <img src="https://raw.githubusercontent.com/dharani2006lakshmi-sys/dharani2006lakshmi-sys/main/header.svg" width="100%" alt="Dharanidharan A - Freelance Web Developer" />
   </a>
 
   <br/><br/>
@@ -39,22 +39,11 @@
 
 ### 👨‍💻 About Me
 
-```javascript
-const dharani = {
-  name: "Dharanidharan A",
-  role: "Freelance Web Developer & 3rd-Year ECE Student",
-  focus: ["Responsive Web Architecture", "High-Conversion Client Sites", "Full-Stack Web Apps"],
-  portfolio: "https://dharanidharan-dev.vercel.app",
-  currentWork: ["CoachHub", "DropVault", "MiniMail", "Client Projects"],
-  status: "Available for Freelance Contracts & Technical Internships"
-};
-```
-
 - 🚀 **Freelance Web Developer** passionate about turning client ideas into clean, blazing-fast, and high-converting web applications.
 - 🎓 **3rd-year Electronics & Communication Engineering (ECE)** undergraduate student.
 - 💻 **12+ Live Production Projects**: Spanning full-stack management systems, commercial landing pages, and privacy-first browser utilities.
-- 🌐 **Explore my portfolio & live demos**: **[dharanidharan-dev.vercel.app](https://dharanidharan-dev.vercel.app)**
-- 💬 Ask me about **React, Next.js, Firebase, Supabase, Tailwind CSS, or UI/UX Design**.
+- 🌐 **Interactive Portfolio**: **[dharanidharan-dev.vercel.app](https://dharanidharan-dev.vercel.app)**
+- 💬 Ask me about: **React, Next.js, Firebase, Supabase, Tailwind CSS, or UI/UX Design**.
 - 📫 Reach out directly: **[dharani2006lakshmi@gmail.com](mailto:dharani2006lakshmi@gmail.com)**
 
 ---
