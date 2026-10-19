@@ -1,9 +1,11 @@
 <div align="center">
 
-  <!-- Dynamic Typing Banner -->
+  <!-- Self-Hosted Animated Cyberpunk Header Banner -->
   <a href="https://dharanidharan-dev.vercel.app" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=26&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=650&height=70&lines=Hi+there,+I'm+Dharanidharan+A+👋;Freelance+Web+Developer;3rd-Year+ECE+Undergrad;React+%26+Next.js+Architect;12%2B+Production+Deployments" alt="Typing SVG" />
+    <img src="./header.svg" width="100%" alt="Dharanidharan A - Freelance Web Developer" />
   </a>
+
+  <br/><br/>
 
   <!-- Prominent Live Portfolio & Contact Badges -->
   <p align="center">
