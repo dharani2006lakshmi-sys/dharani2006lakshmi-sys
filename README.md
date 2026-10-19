@@ -48,18 +48,11 @@
 
 ---
 
-### ⚡ Skills & Proficiency Meters
+### ⚡ Skills & Proficiency
 
-| Core Technology | Level | Live Progress Bar |
-| :--- | :---: | :--- |
-| **JavaScript (ES6+)** | `95%` | ![](https://progress-bar.xyz/95/?color=6366f1) |
-| **React.js** | `90%` | ![](https://progress-bar.xyz/90/?color=6366f1) |
-| **Next.js** | `85%` | ![](https://progress-bar.xyz/85/?color=6366f1) |
-| **Tailwind CSS** | `95%` | ![](https://progress-bar.xyz/95/?color=06b6d4) |
-| **Firebase & Supabase** | `88%` | ![](https://progress-bar.xyz/88/?color=f59e0b) |
-| **Node.js & Python** | `82%` | ![](https://progress-bar.xyz/82/?color=10b981) |
-| **HTML5 / CSS3** | `98%` | ![](https://progress-bar.xyz/98/?color=ec4899) |
-| **Git & Cloud Deployments** | `92%` | ![](https://progress-bar.xyz/92/?color=8b5cf6) |
+<div align="center">
+  <img src="https://raw.githubusercontent.com/dharani2006lakshmi-sys/dharani2006lakshmi-sys/main/skills.svg" width="100%" alt="Skills Circular Proficiency Meters" />
+</div>
 
 ---
 
